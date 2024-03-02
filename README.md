@@ -12,6 +12,18 @@
       <li>Styling the application with CSS</li>
       <li>Testing and deploying the application</li>
     </ul>
+  <h2>Technologies Used</h2>
+    <ul>
+      <li>React.js</li>
+      <li>Node.js</li>
+      <li>Express.js</li>
+      <li>PostgreSQL</li>
+      <!-- Add other technologies used -->
+    </ul>
+    <h2>About the Author</h2>
+    <p>Hi, I'm [Your Name], a passionate web developer with [X] years of experience in building modern web applications. I love sharing my knowledge and helping others learn new technologies.</p>
+    <h2>Project Explanation</h2>
+    <h2>Watch the full tutorial on building this project on YouTube:</h2>
     <h2>Project Screenshots</h2>
 
 ![Screenshot 2024-03-02 211000](https://github.com/Bhargava-design/Task/assets/84629488/7f8fef91-52be-4385-a4e1-2f6efe7770b3)
@@ -24,17 +36,5 @@
 
 ![Screenshot 2024-03-02 211105](https://github.com/Bhargava-design/Task/assets/84629488/7dcf49c7-6aa2-4547-9455-0f715d97986b)
 
-    <h2>Technologies Used</h2>
-    <ul>
-      <li>React.js</li>
-      <li>Node.js</li>
-      <li>Express.js</li>
-      <li>PostgreSQL</li>
-      <!-- Add other technologies used -->
-    </ul>
-    <h2>About the Author</h2>
-    <p>Hi, I'm [Your Name], a passionate web developer with [X] years of experience in building modern web applications. I love sharing my knowledge and helping others learn new technologies.</p>
-    <h2>Project Explanation</h2>
-    <h2>Watch the full tutorial on building this project on YouTube:</h2>
 
 
