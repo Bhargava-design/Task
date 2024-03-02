@@ -1,5 +1,7 @@
 <h1>Building a Full-Stack Web Application</h1>
  <p>Welcome to the project on building a Reactjs and Nodejs using PostgreSQL database which has the functionality as stated below.!</p> 
+  <h2>About the Author</h2>
+   <p>Hi, I'm <b> Bhargava Veera Bhadra Guduru</b>, a passionate full-stack web developerin building modern web applications. I love sharing my knowledge and helping others learn new technologies.</p>
   <h2>Project Overview</h2>
   <p>In this Project,It guides you through the process of creating a modern web application from scratch. We'll cover the following topics:</p>
     <ul>
@@ -20,9 +22,19 @@
       <li>PostgreSQL</li>
       <!-- Add other technologies used -->
     </ul>
-    <h2>About the Author</h2>
-    <p>Hi, I'm [Your Name], a passionate web developer with [X] years of experience in building modern web applications. I love sharing my knowledge and helping others learn new technologies.</p>
-    <h2>Project Explanation</h2>
+    <h2>Road map</h2>
+    <p> These are the steps to follow for completing the project</p>
+    <ul>
+     <li>Install necessary packages like: 
+        <ul>
+         <li>(npm init -y) ---- Nodejs on your terminal</li>
+         <li> (npx install react-DOM) ----- Document Object Model </li>
+         <li> (npm install express pg cors ) -----express.js, PostgreSQL </li>
+         <li> (npm install nodemon -D) ----nodemon Dependency </li>
+         <li> (npm run build) ------install build templete file
+        </ul>
+     </li>
+    </ul>
     <h2>Watch the full tutorial on building this project on YouTube:</h2>
     <h2>Project Screenshots</h2>
 
