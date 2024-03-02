@@ -20,7 +20,6 @@
       <li>Node.js</li>
       <li>Express.js</li>
       <li>PostgreSQL</li>
-      <!-- Add other technologies used -->
     </ul>
     <h2>Road map</h2>
     <p> These are the steps to follow for completing the project</p>
@@ -34,6 +33,17 @@
          <li> (npm run build) ------install build templete file
         </ul>
      </li>
+     <li> Install the PostgreSQL:
+      <ul>
+       <li> Create database (my_db) </li>
+       <li> Create table where it is present in schema/tables </li>
+       <li> insert one sample row to confirm the table created and displaying on the webpage </li>
+      </ul>
+     <li> Connect the server as mentioned in the database,js file where in the server/database.js</li>
+     <li> Make sure the database is connected or not</li>
+    </li> implement the code in index.html file to display the database in webpage </li>
+     <li>now write the search and sort operations by creating the buttons and apply the CSS</li>
+     <li> Test the Code </li>
     </ul>
     <h2>Watch the full tutorial on building this project on YouTube:</h2>
     <h2>Project Screenshots</h2>
